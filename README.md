@@ -5,3 +5,6 @@ This application was created as a simple exploration of the MapBox Kotlin asynch
 Selecting the list button will show a list of the search results.  Selecting the "eye" button will fit all search results to view.
 
 In order to build this application, you must procure a "secret key" or access token from Mapbox.  Define a gradle property MAPBOX_DOWNLOADS_TOKEN and set it to your personal token.
+
+![](searchresults.png)
+
